@@ -32,3 +32,6 @@ energy_analysis.png: Plot of the energy analysis over time
 simulation_metadata.json: Metadata for the simulation
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
