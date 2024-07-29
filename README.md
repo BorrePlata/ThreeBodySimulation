@@ -15,7 +15,7 @@ A detailed simulation of the three-body problem in celestial mechanics using Pyt
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/ThreeBodySimulation.git
+git clone https://github.com/BorrePlata/ThreeBodySimulation.git
 cd ThreeBodySimulation
 pip install -r requirements.txt
 Usage
